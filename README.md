@@ -30,8 +30,6 @@ analise-campeoes-brasileiros/
 │   ├-- UM.png
 │   ├-- DOIS.png
 │   └-- TRES.png
-│-- requirements.txt           # (opcional) dependências: pandas, matplotlib
-│-- .gitignore                 # (opcional) para não subir arquivos temporários
 ```
 
 ---
@@ -53,8 +51,6 @@ venv\Scripts\activate      # Windows
 
 3. Instale as dependências:
 ```bash
-pip install -r requirements.txt
-# ou, se não houver requirements:
 pip install pandas matplotlib
 ```
 
